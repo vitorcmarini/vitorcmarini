@@ -1,4 +1,7 @@
-### Hi there 👋
+
+# 👋 Hello! Welcome to my Github profile.
+## My name is Vitor Marini and my nickname is "Vitão"!
+
 
 <!--
 **vitorcmarini/vitorcmarini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +20,15 @@ Here are some ideas to get you started:
 <!--
 <div class="tenor-gif-embed" data-postid="16596559" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559">Code Coding GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> -->
 
+<!--
 ![Snake animation](https://github.com/vitorcmarini/vitorcmarini/blob/output/github-contribution-grid-snake.svg)
+-->
+
+## Ferramentas e Tecnologias
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
+
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
