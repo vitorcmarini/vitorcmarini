@@ -8,6 +8,7 @@
 - 📫 You can contact me at vitorcmarini@gmail.com
 - 🍖 I'm a great barbecue chef
 
+I have always enjoyed learning and challenging myself, which has led me to experience a wide range of roles, from customer service and manual labor to industry work and much more. Eventually, I found my calling in the IT sector, where I continued to experiment and grow. I have worked as a data analyst, a corporate systems developer, a team coordinator, among other roles. Currently, I am focused on developing diverse back-end solutions, bringing creative ideas to life primarily for small businesses, and helping those who have not yet digitalized to enter this universe.
 
 <!--
 **vitorcmarini/vitorcmarini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
