@@ -8,7 +8,7 @@
 - 📫 You can contact me at vitorcmarini@gmail.com
 - 🍖 I'm a great barbecue chef
 
-- 
+
 <!--
 **vitorcmarini/vitorcmarini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
